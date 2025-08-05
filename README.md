@@ -48,12 +48,10 @@ Replace your-key-name.pem with your actual key file and <your-ec2-public-ip> wit
 
 After connecting to your EC2 instance, it is recommended to update the package manager to ensure that all packages are up to date.
 
-### 🖥️ Command:
+![Lamp 4](https://github.com/user-attachments/assets/422db418-b812-47c1-8cf5-8381054fb620)
 
-```bash
-sudo apt update && sudo apt upgrade -y
 
-![Lamp 4](https://github.com/user-attachments/assets/58a852e9-a142-4022-8da3-0b8834d07153)
+
 
 ## 🌐 Step 2: Install Apache2
 
