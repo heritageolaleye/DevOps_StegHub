@@ -41,3 +41,52 @@ Before we install the LAMP stack, we need to launch and prepare an EC2 instance.
    ```bash
    ssh -i "your-key-name.pem" ubuntu@<your-ec2-public-ip>
 Replace your-key-name.pem with your actual key file and <your-ec2-public-ip> with the public IP of your instance.
+![LAMP 3](https://github.com/user-attachments/assets/9164c3f2-1f2b-4fd3-b53f-7f8889b7210f)
+
+
+## ⚙️ Step 1: Update the Package Manager
+
+After connecting to your EC2 instance, it is recommended to update the package manager to ensure that all packages are up to date.
+
+### 🖥️ Command:
+
+```bash
+sudo apt update && sudo apt upgrade -y
+
+![Lamp 4](https://github.com/user-attachments/assets/58a852e9-a142-4022-8da3-0b8834d07153)
+
+## 🌐 Step 2: Install Apache2
+
+Apache is a widely used open-source web server software that will serve your web pages to users over the internet.
+
+![LAMP 5](https://github.com/user-attachments/assets/951bd47f-6cd8-4aa8-8ec6-b7192efd4ac5)
+
+
+### ⚙️ Enable and Check Apache Service
+
+To ensure Apache starts automatically on system boot and to verify that it is running properly, use the following commands:
+
+#### 🖥️ Commands:
+
+```bash
+sudo systemctl enable apache2
+sudo systemctl status apache2
+
+![LAMP 6](https://github.com/user-attachments/assets/50aa93f5-9fea-4756-a68d-95b0aab251e6)
+
+🌍 Step 5: Test Apache Externally (From Browser)
+To confirm that Apache is accessible over the internet, open your browser and visit the public IP of your EC2 instance:
+
+cpp
+Copy
+Edit
+http://<your-ec2-public-ip>:80
+🔍 Example:
+cpp
+Copy
+Edit
+http://13.53.216.202:80
+You should see the Apache2 Ubuntu Default Page, indicating that your server is successfully serving web pages.
+
+
+
