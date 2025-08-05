@@ -74,5 +74,8 @@ http://<your-ec2-public-ip>:80
 http://13.53.216.202:80
 You should see the Apache2 Ubuntu Default Page, indicating that your server is successfully serving web pages.
 
+![LAMP 7](https://github.com/user-attachments/assets/f4bd4e2d-e4d7-4fc9-a46e-105082ee663c)
+
+
 
 
