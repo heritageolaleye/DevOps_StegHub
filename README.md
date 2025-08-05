@@ -64,25 +64,13 @@ Apache is a widely used open-source web server software that will serve your web
 
 To ensure Apache starts automatically on system boot and to verify that it is running properly, use the following commands:
 
-#### 🖥️ Commands:
+![LAMP 6](https://github.com/user-attachments/assets/dc226832-5a62-4f1f-912a-158f7c64adff)
 
-```bash
-sudo systemctl enable apache2
-sudo systemctl status apache2
-
-![LAMP 6](https://github.com/user-attachments/assets/50aa93f5-9fea-4756-a68d-95b0aab251e6)
 
 🌍 Step 5: Test Apache Externally (From Browser)
 To confirm that Apache is accessible over the internet, open your browser and visit the public IP of your EC2 instance:
-
-cpp
-Copy
-Edit
 http://<your-ec2-public-ip>:80
 🔍 Example:
-cpp
-Copy
-Edit
 http://13.53.216.202:80
 You should see the Apache2 Ubuntu Default Page, indicating that your server is successfully serving web pages.
 
