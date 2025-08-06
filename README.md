@@ -88,10 +88,6 @@ In our case, we will install **MySQL**. MySQL is a widely used, open-source RDBM
 ![LAMP 13](https://github.com/user-attachments/assets/5fe6aa14-cc32-4b45-8444-787855f2ed1a)
 
 
-
-
-### 🖥️ Command:
-
 ```bash
 sudo apt install mysql-server -y
 The -y flag automatically confirms the installation prompt.
@@ -99,6 +95,8 @@ The -y flag automatically confirms the installation prompt.
 Once installed, you can proceed to secure the database and start using it to create users, schemas, and tables for your web application.
 
 ## 🔐 Step 3: Log in to MySQL Console
+
+![LAMP 14](https://github.com/user-attachments/assets/6f3ca620-8380-49a3-9b64-a58d72a60f64)
 
 To access the MySQL server as the administrative `root` user, run the following command:
 
@@ -114,7 +112,7 @@ or the purpose of this tutorial, we'll use PassWord.1 as the password.
 
 After assigning a password to the `root` user, you should now log in using that password to verify access.
 
-![LAMP 14](https://github.com/user-attachments/assets/b38068fd-bba3-429e-a97d-1d9817fddaec)
+
 
 
 ```bash
