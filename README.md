@@ -136,6 +136,7 @@ libapache2-mod-php _(this helps Apache to handle and understand PHP files) to ge
 
 
 
+![LAMP 14](https://github.com/user-attachments/assets/d39c6be9-9558-4ae4-a2f5-474f957a3dc0)
 
 
 
