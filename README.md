@@ -106,21 +106,8 @@ Running this command connects your shell to the MySQL server as the root user, t
 🔑 Step 4: Set a Password for the Root User
 Once inside the MySQL shell, assign a password to the root user and configure the authentication method to mysql_native_password.
 
-For the purpose of this tutorial, we'll use PassW0RD$ as the password.
+For the purpose of this tutorial, we'll use PassWord.1 as the password.
 
-🖥️ MySQL Command:
-sql
-Copy
-Edit
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
-⚠️ In real-world applications, replace "PassW0RD$" with a stronger, more secure password.
-
-To exit the MySQL console, run:
-
-sql
-Copy
-Edit
-exit;
 ![LAMP 12](https://github.com/user-attachments/assets/7d3681be-eb6b-4718-ac8e-c3ab78346088)
 
 
