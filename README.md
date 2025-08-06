@@ -114,12 +114,13 @@ or the purpose of this tutorial, we'll use PassWord.1 as the password.
 
 After assigning a password to the `root` user, you should now log in using that password to verify access.
 
-### 🖥️ Command:
+![LAMP 14](https://github.com/user-attachments/assets/b38068fd-bba3-429e-a97d-1d9817fddaec)
+
 
 ```bash
 sudo mysql -p
 The -p flag tells MySQL to prompt you for a password. You should see output like this:
-![LAMP 14](https://github.com/user-attachments/assets/e3c17bb9-7a2c-4c56-b955-645ceae0245a)
+
 
 Step 3 - Install PHP
 1. Install php. So far, we have installed Apache to serve our web contents, and we installed Mysql to assist us store and manage our data. Now, we will install Php to process codes inorder to display dynamic content to the consumer user.
