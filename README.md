@@ -111,12 +111,10 @@ Once inside the MySQL shell, assign a password to the root user and configure th
 or the purpose of this tutorial, we'll use PassWord.1 as the password.
 
 ## 🔐 Step 6: Log In to MySQL Console Using Root Password
-![LAMP 14](https://github.com/user-attachments/assets/a1c99ad4-b90a-4c7c-83e2-c2978930d108)
 
+![LAMP 14](https://github.com/user-attachments/assets/1d50cd50-937a-4f09-86c1-23560beb9615)
 
 After assigning a password to the `root` user, you should now log in using that password to verify access.
-
-![LAMP 14](https://github.com/user-attachments/assets/3b6aa903-24ac-46da-b968-d2044d026c76)
 
 
 ### 🖥️ Command:
