@@ -121,6 +121,17 @@ sudo mysql -p
 The -p flag tells MySQL to prompt you for a password. You should see output like this:
 ![LAMP 14](https://github.com/user-attachments/assets/e3c17bb9-7a2c-4c56-b955-645ceae0245a)
 
+Step 3 - Install PHP
+1. Install php. So far, we have installed Apache to serve our web contents, and we installed Mysql to assist us store and manage our data. Now, we will install Php to process codes inorder to display dynamic content to the consumer user.
+
+To set up php on our server, we are going to need the following installed:
+
+php package
+php-mysql (this is a PHP module that allows PHP to communicate with MySQL databases)
+libapache2-mod-php _(this helps Apache to handle and understand PHP files) to get this all set up in the machine, run:
+![LAMP 15](https://github.com/user-attachments/assets/81fa8f15-5c7f-4b16-a151-381be23a356d)
+
+
 
 
 
