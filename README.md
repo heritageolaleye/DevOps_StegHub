@@ -95,6 +95,33 @@ The -y flag automatically confirms the installation prompt.
 
 Once installed, you can proceed to secure the database and start using it to create users, schemas, and tables for your web application.
 
+## 🔐 Step 3: Log in to MySQL Console
+
+To access the MySQL server as the administrative `root` user, run the following command:
+
+```bash
+sudo mysql
+Running this command connects your shell to the MySQL server as the root user, thanks to the elevated privileges granted by sudo.
+
+🔑 Step 4: Set a Password for the Root User
+Once inside the MySQL shell, assign a password to the root user and configure the authentication method to mysql_native_password.
+
+For the purpose of this tutorial, we'll use PassW0RD$ as the password.
+
+🖥️ MySQL Command:
+sql
+Copy
+Edit
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassW0RD$';
+⚠️ In real-world applications, replace "PassW0RD$" with a stronger, more secure password.
+
+To exit the MySQL console, run:
+
+sql
+Copy
+Edit
+exit;
+
 
 
 
