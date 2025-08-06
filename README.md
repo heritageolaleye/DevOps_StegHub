@@ -122,6 +122,8 @@ After assigning a password to the `root` user, you should now log in using that 
 ```bash
 sudo mysql -p
 The -p flag tells MySQL to prompt you for a password. You should see output like this:
+![LAMP 14](https://github.com/user-attachments/assets/e3c17bb9-7a2c-4c56-b955-645ceae0245a)
+
 
 
 
