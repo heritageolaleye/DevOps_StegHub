@@ -96,7 +96,7 @@ Once installed, you can proceed to secure the database and start using it to cre
 
 ## 🔐 Step 3: Log in to MySQL Console
 
-![LAMP 14](https://github.com/user-attachments/assets/6f3ca620-8380-49a3-9b64-a58d72a60f64)
+
 
 To access the MySQL server as the administrative `root` user, run the following command:
 
@@ -122,7 +122,7 @@ The -p flag tells MySQL to prompt you for a password. You should see output like
 
 Step 3 - Install PHP
 1. Install php. So far, we have installed Apache to serve our web contents, and we installed Mysql to assist us store and manage our data. Now, we will install Php to process codes inorder to display dynamic content to the consumer user.
-![LAMP 15](https://github.com/user-attachments/assets/945df953-0fde-4717-ad76-66d48c2daec0)
+
 
 
 To set up php on our server, we are going to need the following installed:
@@ -136,7 +136,7 @@ libapache2-mod-php _(this helps Apache to handle and understand PHP files) to ge
 
 
 
-![LAMP 14](https://github.com/user-attachments/assets/d39c6be9-9558-4ae4-a2f5-474f957a3dc0)
+
 
 
 
