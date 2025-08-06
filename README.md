@@ -123,6 +123,8 @@ The -p flag tells MySQL to prompt you for a password. You should see output like
 
 Step 3 - Install PHP
 1. Install php. So far, we have installed Apache to serve our web contents, and we installed Mysql to assist us store and manage our data. Now, we will install Php to process codes inorder to display dynamic content to the consumer user.
+![LAMP 15](https://github.com/user-attachments/assets/945df953-0fde-4717-ad76-66d48c2daec0)
+
 
 To set up php on our server, we are going to need the following installed:
 
