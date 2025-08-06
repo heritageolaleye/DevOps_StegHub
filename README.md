@@ -76,6 +76,25 @@ You should see the Apache2 Ubuntu Default Page, indicating that your server is s
 
 ![LAMP 7](https://github.com/user-attachments/assets/f4bd4e2d-e4d7-4fc9-a46e-105082ee663c)
 
+## 🗄️ Step 2: Install MySQL
+
+To handle data for your web application, you need a **Relational Database Management System (RDBMS)**.
+
+In our case, we will install **MySQL**. MySQL is a widely used, open-source RDBMS that integrates seamlessly in PHP-based environments.
+
+### 🖥️ Command:
+
+```bash
+sudo apt install mysql-server -y
+The -y flag automatically confirms the installation prompt.
+
+Once installed, you can proceed to secure the database and start using it to create users, schemas, and tables for your web application.
+
+![LAMP 8](https://github.com/user-attachments/assets/07f275e5-a8c6-4329-8029-d424e1506d9f)
+![Lamp 9](https://github.com/user-attachments/assets/fec432e6-cba2-4f53-9e46-dff8f521bd20)
+
+
+
 
 
 
