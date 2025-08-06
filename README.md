@@ -112,7 +112,7 @@ For the purpose of this tutorial, we'll use PassW0RD$ as the password.
 sql
 Copy
 Edit
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassW0RD$';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
 ⚠️ In real-world applications, replace "PassW0RD$" with a stronger, more secure password.
 
 To exit the MySQL console, run:
@@ -121,6 +121,8 @@ sql
 Copy
 Edit
 exit;
+![LAMP 12](https://github.com/user-attachments/assets/7d3681be-eb6b-4718-ac8e-c3ab78346088)
+
 
 
 
