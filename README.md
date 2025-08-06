@@ -85,6 +85,9 @@ In our case, we will install **MySQL**. MySQL is a widely used, open-source RDBM
 ![LAMP 8](https://github.com/user-attachments/assets/8068eb3a-1f53-4829-8045-0b4ed7378825)
 ![Lamp 9](https://github.com/user-attachments/assets/f8d9001d-afb3-412d-9b64-5bd6e966ba98)
 
+![LAMP 13](https://github.com/user-attachments/assets/5fe6aa14-cc32-4b45-8444-787855f2ed1a)
+
+
 
 
 ### 🖥️ Command:
