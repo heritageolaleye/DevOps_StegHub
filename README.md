@@ -104,16 +104,24 @@ To access the MySQL server as the administrative `root` user, run the following 
 
 ```bash
 sudo mysql
-Running this command connects your shell to the MySQL server as the root user, thanks to the elevated privileges granted by sudo.
-
-![LAMP 13](https://github.com/user-attachments/assets/9a7b4f91-8793-4075-8ce4-3b932e4ce72e)
-
+Running this command connects your shell to the MySQL server as the root user, thanks to the elevated privileges granted by sudo
 
 🔑 Step 4: Set a Password for the Root User
 Once inside the MySQL shell, assign a password to the root user and configure the authentication method to mysql_native_password.
-
-
 or the purpose of this tutorial, we'll use PassWord.1 as the password.
+
+## 🔐 Step 6: Log In to MySQL Console Using Root Password
+
+After assigning a password to the `root` user, you should now log in using that password to verify access.
+
+![LAMP 14](https://github.com/user-attachments/assets/3b6aa903-24ac-46da-b968-d2044d026c76)
+
+
+### 🖥️ Command:
+
+```bash
+sudo mysql -p
+The -p flag tells MySQL to prompt you for a password. You should see output like this:
 
 
 
