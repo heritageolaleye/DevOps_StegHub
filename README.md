@@ -83,6 +83,8 @@ To handle data for your web application, you need a **Relational Database Manage
 In our case, we will install **MySQL**. MySQL is a widely used, open-source RDBMS that integrates seamlessly in PHP-based environments.
 
 ![LAMP 8](https://github.com/user-attachments/assets/8068eb3a-1f53-4829-8045-0b4ed7378825)
+![Lamp 9](https://github.com/user-attachments/assets/f8d9001d-afb3-412d-9b64-5bd6e966ba98)
+
 
 
 ### 🖥️ Command:
@@ -93,8 +95,8 @@ The -y flag automatically confirms the installation prompt.
 
 Once installed, you can proceed to secure the database and start using it to create users, schemas, and tables for your web application.
 
-![LAMP 8](https://github.com/user-attachments/assets/07f275e5-a8c6-4329-8029-d424e1506d9f)
-![Lamp 9](https://github.com/user-attachments/assets/fec432e6-cba2-4f53-9e46-dff8f521bd20)
+
+
 
 
 
