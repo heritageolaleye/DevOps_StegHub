@@ -112,11 +112,10 @@ or the purpose of this tutorial, we'll use PassWord.1 as the password.
 
 After assigning a password to the `root` user, you should now log in using that password to verify access.
 
-![LAMP 14](https://github.com/heritageolaleye/DevOps_StegHub/blob/master/images/lamp14.jpg?raw=true)
+![LAMP 14](https://raw.githubusercontent.com/heritageolaleye/DevOps_StegHub/master/images/lamp14.jpg)
 
 
-![LAMP 15](https://github.com/heritageolaleye/DevOps_StegHub/blob/master/images/lamp15.jpg?raw=true)
-
+![LAMP 15](https://raw.githubusercontent.com/heritageolaleye/DevOps_StegHub/master/images/lamp15.jpg)
 
 ```bash
 sudo mysql -p
