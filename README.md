@@ -108,7 +108,8 @@ Once inside the MySQL shell, assign a password to the root user and configure th
 
 For the purpose of this tutorial, we'll use PassWord.1 as the password.
 
-![LAMP 12](https://github.com/user-attachments/assets/7d3681be-eb6b-4718-ac8e-c3ab78346088)
+![LAMP 12](https://github.com/user-attachments/assets/a9164407-484b-4b57-8587-74aa4639b7e7)
+
 
 
 
