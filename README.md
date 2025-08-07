@@ -112,7 +112,7 @@ or the purpose of this tutorial, we'll use PassWord.1 as the password.
 
 After assigning a password to the `root` user, you should now log in using that password to verify access.
 
-![LAMP 14](https://github.com/user-attachments/assets/f4c7d659-a6a8-4bd1-9de4-024c6eac5ca4)
+
 
 ![LAMP 15](images/lamp15.jpg)
 
@@ -137,6 +137,7 @@ libapache2-mod-php _(this helps Apache to handle and understand PHP files) to ge
 
 
 
+![LAMP 14](https://github.com/user-attachments/assets/ff84864c-0900-458c-b69d-2ee615d6466c)
 
 
 
