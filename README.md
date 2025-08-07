@@ -113,9 +113,6 @@ or the purpose of this tutorial, we'll use PassWord.1 as the password.
 After assigning a password to the `root` user, you should now log in using that password to verify access.
 
 ![LAMP 14](images/lamp14.jpg)
-![LAMP 14](https://github.com/user-attachments/assets/7260825a-2c7f-4ca5-a082-35f8dca8d64c)
-
-
 
 ![LAMP 15](images/lamp15.jpg)
 
