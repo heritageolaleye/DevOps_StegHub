@@ -112,7 +112,7 @@ or the purpose of this tutorial, we'll use PassWord.1 as the password.
 
 After assigning a password to the `root` user, you should now log in using that password to verify access.
 
-![cheese!](images/lamp14.jpg)
+![cheese!](./images/lamp14.jpg)
 
 ![cheese!](images/lamp15.jpg)
 
