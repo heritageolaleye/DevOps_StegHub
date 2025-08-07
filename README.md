@@ -114,7 +114,7 @@ After assigning a password to the `root` user, you should now log in using that 
 
 ![LAMP 14](./images/lamp14.jpg)
 
-![cheese!](images/lamp15.jpg)
+![LAMP 15](./images/lamp15.jpg)
 
 ```bash
 sudo mysql -p
